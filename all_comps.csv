@@ -1,0 +1,6 @@
+assessment_id,first_name,last_name,name,competency_score
+1,Dakotah,Holmes,Variables,3
+1,Thor,Son of Odin,Variables,4
+1,Steve,Rogers,Variables,2
+2,Thor,Son of Odin,Loops,2
+2,Dakotah,Holmes,Loops,4
